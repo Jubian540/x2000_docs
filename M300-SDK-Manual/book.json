@@ -1,0 +1,18 @@
+{
+  "title": "M300 SW SDK Manual",
+  "description": "sw sdk manual",
+  "language": "zh-hans",
+
+  "pdf": {
+  	"fontSize" : 10,
+	"fontFamliy":"Arial",
+	"margin" : {
+		"right":50,
+		"left":50,
+		"top":30,
+		"bottom":30
+	}
+  }
+
+}
+

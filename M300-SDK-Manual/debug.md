@@ -1,0 +1,1 @@
+../X2000-SDK-Manual/debug.md

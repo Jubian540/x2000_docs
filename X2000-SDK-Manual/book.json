@@ -1,0 +1,30 @@
+{
+  "title": "X2000 SW SDK Manual",
+  "description": "sw sdk manual",
+  "language": "zh-hans",
+
+  "plugins" : [
+  	"simple-page-toc"
+  ],
+
+  "pluginsConfig": {
+	  "simple-page-toc": {
+		  "maxDepth": 10,
+		  "skipFirstH1": true
+	  }
+  },
+
+
+  "pdf": {
+  	"fontSize" : 10,
+	"fontFamliy":"Arial",
+	"margin" : {
+		"right":50,
+		"left":50,
+		"top":30,
+		"bottom":30
+	}
+  }
+
+}
+

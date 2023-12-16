@@ -1,0 +1,1 @@
+../X2000-SDK-Manual/7_SD卡烧录方案.md

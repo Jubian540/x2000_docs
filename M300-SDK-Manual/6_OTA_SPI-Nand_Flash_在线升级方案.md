@@ -1,0 +1,1 @@
+../X2000-SDK-Manual/6_OTA_SPI-Nand_Flash_在线升级方案.md
